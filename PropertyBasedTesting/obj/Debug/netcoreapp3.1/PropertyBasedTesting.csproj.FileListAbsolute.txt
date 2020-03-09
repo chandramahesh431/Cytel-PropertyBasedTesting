@@ -1,0 +1,14 @@
+D:\Projects\PropertyBasedTesting\PropertyBasedTesting\bin\Debug\netcoreapp3.1\PropertyBasedTesting.exe
+D:\Projects\PropertyBasedTesting\PropertyBasedTesting\bin\Debug\netcoreapp3.1\PropertyBasedTesting.deps.json
+D:\Projects\PropertyBasedTesting\PropertyBasedTesting\bin\Debug\netcoreapp3.1\PropertyBasedTesting.runtimeconfig.json
+D:\Projects\PropertyBasedTesting\PropertyBasedTesting\bin\Debug\netcoreapp3.1\PropertyBasedTesting.runtimeconfig.dev.json
+D:\Projects\PropertyBasedTesting\PropertyBasedTesting\bin\Debug\netcoreapp3.1\PropertyBasedTesting.dll
+D:\Projects\PropertyBasedTesting\PropertyBasedTesting\bin\Debug\netcoreapp3.1\PropertyBasedTesting.pdb
+D:\Projects\PropertyBasedTesting\PropertyBasedTesting\obj\Debug\netcoreapp3.1\PropertyBasedTesting.csprojAssemblyReference.cache
+D:\Projects\PropertyBasedTesting\PropertyBasedTesting\obj\Debug\netcoreapp3.1\PropertyBasedTesting.AssemblyInfoInputs.cache
+D:\Projects\PropertyBasedTesting\PropertyBasedTesting\obj\Debug\netcoreapp3.1\PropertyBasedTesting.AssemblyInfo.cs
+D:\Projects\PropertyBasedTesting\PropertyBasedTesting\obj\Debug\netcoreapp3.1\PropertyBasedTesting.dll
+D:\Projects\PropertyBasedTesting\PropertyBasedTesting\obj\Debug\netcoreapp3.1\PropertyBasedTesting.pdb
+D:\Projects\PropertyBasedTesting\PropertyBasedTesting\bin\Debug\netcoreapp3.1\Reservation.dll
+D:\Projects\PropertyBasedTesting\PropertyBasedTesting\bin\Debug\netcoreapp3.1\Reservation.pdb
+D:\Projects\PropertyBasedTesting\PropertyBasedTesting\obj\Debug\netcoreapp3.1\PropertyBasedTesting.csproj.CopyComplete

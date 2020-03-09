@@ -1,0 +1,8 @@
+D:\Projects\PropertyBasedTesting\Reservation\bin\Debug\netcoreapp3.1\Reservation.deps.json
+D:\Projects\PropertyBasedTesting\Reservation\bin\Debug\netcoreapp3.1\Reservation.dll
+D:\Projects\PropertyBasedTesting\Reservation\bin\Debug\netcoreapp3.1\Reservation.pdb
+D:\Projects\PropertyBasedTesting\Reservation\obj\Debug\netcoreapp3.1\Reservation.AssemblyInfoInputs.cache
+D:\Projects\PropertyBasedTesting\Reservation\obj\Debug\netcoreapp3.1\Reservation.AssemblyInfo.cs
+D:\Projects\PropertyBasedTesting\Reservation\obj\Debug\netcoreapp3.1\Reservation.dll
+D:\Projects\PropertyBasedTesting\Reservation\obj\Debug\netcoreapp3.1\Reservation.pdb
+D:\Projects\PropertyBasedTesting\Reservation\obj\Debug\netcoreapp3.1\Reservation.csprojAssemblyReference.cache

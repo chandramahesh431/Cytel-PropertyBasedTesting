@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "PropertyBasedTesting/1.0.0": {
+        "dependencies": {
+          "Reservation": "1.0.0"
+        },
+        "runtime": {
+          "PropertyBasedTesting.dll": {}
+        }
+      },
+      "Reservation/1.0.0": {
+        "runtime": {
+          "Reservation.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PropertyBasedTesting/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Reservation/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
